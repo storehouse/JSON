@@ -1,0 +1,22 @@
+{
+  "ID": 719365,
+  "name": "Example JSON",
+  "attributes": {
+    "favorite_colors": [
+      {
+        "red": 0.1,
+        "green": 0.2,
+        "blue": 0.3,
+        "alpha": 0.5
+      },
+      {
+        "red": 0.3,
+        "green": 0.6,
+        "blue": 0.9,
+        "alpha": 1.0
+      }
+    ],
+    "something": null,
+    "funny": true
+  }
+}
